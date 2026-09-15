@@ -197,9 +197,9 @@ operate at the scale of a small team.
 
 ## Related Projects
 
-- [forward-deployed-operations-platform](https://github.com/Concon8991/forward-deployed-operations-platform) — one of the systems Scoob manages
-- [ai-support-intelligence](https://github.com/Concon8991/ai-support-intelligence) — LLM pipeline built using Scoob's data engineering patterns
-- [customer-data-engineering](https://github.com/Concon8991/customer-data-engineering) — production failure modes Scoob helps avoid
+- [forward-deployed-operations-platform](https://github.com/TomOccon/forward-deployed-operations-platform) — one of the systems Scoob manages
+- [ai-support-intelligence](https://github.com/TomOccon/ai-support-intelligence) — LLM pipeline built using Scoob's data engineering patterns
+- [customer-data-engineering](https://github.com/TomOccon/customer-data-engineering) — production failure modes Scoob helps avoid
 
 ---
 
