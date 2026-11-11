@@ -174,7 +174,7 @@ when the answer is "use pandas `.groupby()`."
 | Persistent memories | 175+ |
 | Specialist agents | 40 |
 | MCP tools available | 200+ |
-| Customer builds managed | 35+ |
+| Production builds delivered | 50+ across 25 enterprise accounts |
 | Industries served | 10+ |
 | Team knowledge lake entries | Shared across entire PS org |
 
